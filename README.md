@@ -1,3 +1,3 @@
-# Start a F**king Blog!
+# JK47 Blog
 
-Repo for the startafuckingblog.com website
+Hosting via netlify
